@@ -22,12 +22,20 @@ https://food-picker-app-weld.vercel.app
 - Vite
 - Tailwind CSS
 
-## Screenshot
-
-(Add screenshot later if you want)
-
 ## Installation
 
-```bash
+Install dependencies:
+
+```
 npm install
+```
+
+Start development server:
+
+```
 npm run dev
+```
+
+## Author
+
+Alex Jean
